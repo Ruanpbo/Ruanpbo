@@ -13,7 +13,7 @@ Atualmente sou estagiario na Cogna Education
 
 ## 🔧 Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=azure,postman,git,github,cs,dotnet&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=azure,postman,git,github&perline=6)](https://skillicons.dev)
 
 ## 📫 Como me encontrar
 
