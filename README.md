@@ -15,6 +15,8 @@ Atualmente sou estagiario na Cogna Education
 
 [![My Skills](https://skillicons.dev/icons?i=azure,postman,git,github&perline=6)](https://skillicons.dev)
 
+![Snake animation](https://github.com/Ranpbo/Ruanpbo/blob/output/github-contribution-grid-snake.svg)
+
 ## 📫 Como me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ruanpbo/)
@@ -33,3 +35,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div>
+<a href="https://github.com/ruanpbo">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruanpbo&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=ruanpbo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
