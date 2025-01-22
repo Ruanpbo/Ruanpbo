@@ -15,7 +15,8 @@ Atualmente sou estagiario na Cogna Education
 
 [![My Skills](https://skillicons.dev/icons?i=azure,postman,git,github&perline=6)](https://skillicons.dev)
 
-![Snake animation](https://github.com/Ranpbo/Ruanpbo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Ruanpbo/Ruanpbo/blob/output/github-contribution-grid-snake.svg)
+
 
 ## 📫 Como me encontrar
 
