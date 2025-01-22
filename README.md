@@ -8,7 +8,7 @@ Atualmente sou estagiario na Cogna Education
 
 ## Languages e Tools
 
-[![My Skills](https://skillicons.dev/icons?i=azure,postman,git,github&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=redhat,azure,postman,git,github&perline=6)](https://skillicons.dev)
 
 
 ## GitHub Stats
