@@ -1,14 +1,10 @@
 ## Hi there, I'm Ruan!
 
-Sou estudante de Análise e desenvolvimento de sitemas na Anhanguera 🏫.
-
-Tenho grande interesse em governança e programação 👩‍💻!
-
-Atualmente sou estagiario na Cogna Education
+I hold a degree in Systems Analysis and Development and Solutions Architecture from Anhanguera University. I am currently following the Data Engineering track at Alura to qualify for work in the fields of data engineering and artificial intelligence.
 
 ## Languages e Tools
 
-[![My Skills](https://skillicons.dev/icons?i=redhat,azure,postman,git,github&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,mysql,aws,git&perline=6)](https://skillicons.dev)
 
 ## Reach me 📫
 
